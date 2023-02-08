@@ -1,3 +1,8 @@
+<img width="1439" alt="ava" src="https://user-images.githubusercontent.com/71287015/217533038-9980936f-c8d2-4bd8-a6ba-0feac7032751.png">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
